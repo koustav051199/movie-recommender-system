@@ -1,0 +1,1460 @@
+tag_id,tags
+1,funny
+2,highly quotable
+3,will ferrell
+4,boxing story
+5,mma
+6,tom hardy
+7,drug
+8,leonardo dicaprio
+9,martin scorsese
+10,way too long
+11,al pacino
+12,gangster
+13,mafia
+14,holocaust
+15,true story
+16,twist ending
+17,anthony hopkins
+18,courtroom drama
+19,britpop
+20,indie record label
+21,music
+22,dumpster diving
+23,sustainability
+24,romantic comedy
+25,wedding
+26,painter
+27,bloody
+28,black hole
+29,sci-fi
+30,time-travel
+31,fantasy
+32,magic board game
+33,robin williams
+34,beautiful scenery
+35,epic
+36,historical
+37,inspirational
+38,medieval
+39,mel gibson
+40,oscar (best cinematography)
+41,revenge
+42,sword fight
+43,black comedy
+44,christina ricci
+45,christopher lloyd
+46,dark comedy
+47,family
+48,gothic
+49,andy garcia
+50,classic
+51,francis ford coppola
+52,quirky
+53,macaulay culkin
+54,sequel
+55,animation
+56,disney
+57,original
+58,pixar
+59,tom hanks
+60,ancient rome
+61,history
+62,imdb top 250
+63,rome
+64,russell crowe
+65,ed harris
+66,jude law
+67,rachel weisz
+68,sniper
+69,world war ii
+70,atmospheric
+71,hilary swank
+72,violent
+73,dog
+74,eric bana
+75,mad scientist
+76,marvel
+77,captain nemo
+78,comic book
+79,peta wilson
+80,sean connery
+81,superhero
+82,adventure
+83,angelina jolie
+84,heroine in tight suit
+85,ensemble cast
+86,fantasy world
+87,great soundtrack
+88,lord of the rings
+89,scenic
+90,stylized
+91,tolkien
+92,hilarious
+93,steve carell
+94,anime
+95,cyberpunk
+96,dark
+97,matrix
+98,jim carrey
+99,meryl streep
+100,adam sandler
+101,sweet
+102,british gangster
+103,confusing
+104,daniel craig
+105,exquisite plotting.
+106,organized crime
+107,stylish
+108,hayao miyazaki
+109,studio ghibli
+110,david thewlis
+111,eva green
+112,liam neeson
+113,orlando bloom
+114,chris evans
+115,jessica alba
+116,sexy female scientist
+117,helena bonham carter
+118,johnny depp
+119,tim burton
+120,visually appealing
+121,clever
+122,fast-paced dialogue
+123,good dialogue
+124,robert downey jr.
+125,witty
+126,audrey tautou
+127,conspiracy theory
+128,mystery
+129,paris
+130,treasure hunt
+131,brad pitt
+132,cate blanchett
+133,multiple storylines
+134,social commentary
+135,ben stiller
+136,emma thompson
+137,maggie gyllenhaal
+138,modern fantasy
+139,romance
+140,surreal
+141,marion cotillard
+142,africa
+143,corruption
+144,jennifer connelly
+145,justice
+146,bad acting
+147,bad jokes
+148,bad plot
+149,ryan reynolds
+150,lion
+151,narnia
+152,tilda swinton
+153,bad script
+154,charlize theron
+155,will smith
+156,anne hathaway
+157,comedy
+158,james franco
+159,seth rogen
+160,stoner movie
+161,audience intelligence underestimated
+162,boring
+163,chick flick
+164,overrated
+165,teen movie
+166,adrien brody
+167,con artists
+168,interesting characters
+169,mark ruffalo
+170,bill murray
+171,emma stone
+172,jesse eisenberg
+173,woody harrelson
+174,cgi
+175,cheesy
+176,dc
+177,dc comics
+178,space
+179,happy ending
+180,hot actress
+181,justin timberlake
+182,mila kunis
+183,new york city
+184,sex
+185,istanbul
+186,predictable
+187,turkey
+188,unnecessary sequel
+189,action
+190,christoph waltz
+191,good soundtrack
+192,great performances
+193,humour
+194,quentin tarantino
+195,samuel l. jackson
+196,soundtrack
+197,western
+198,amy adams
+199,daniel radcliffe
+200,zoe kazan
+201,stupid but funny
+202,anti-intellectual
+203,bad writing
+204,dystopia
+205,new society
+206,plot holes
+207,scifi
+208,unintelligent
+209,seth macfarlane
+210,post-apocalyptic
+211,survival
+212,thriller
+213,unexplained
+214,weak plot
+215,dark hero
+216,gun-fu
+217,keanu reeves
+218,secret society
+219,dark humor
+220,ironic
+221,multiple short stories
+222,short stories
+223,bromance
+224,dr. strange
+225,great villain
+226,guardians of the galaxy
+227,mcu
+228,thanos
+229,thor
+230,visually stunning
+231,character
+232,dialogue
+233,humor
+234,kurt russell
+235,tension building
+236,jennifer lawrence
+237,love story
+238,nonsense
+239,politics
+240,rebellion
+241,revolution
+242,ben kingsley
+243,ethic
+244,immortality
+245,bad story
+246,batman
+247,ben affleck
+248,harley quinn
+249,harley quinn's ass
+250,horrible directing
+251,jared leto
+252,joker
+253,lack of plot
+254,margot robbie
+255,poor story
+256,poorly paced
+257,gal gadot
+258,superman
+259,wonderwoman
+260,leonardo dicarpio
+261,building a family
+262,creative
+263,freedom
+264,good writing
+265,individualism
+266,viggo mortensen
+267,gun tactics
+268,hitman
+269,future
+270,interesting
+271,jon hamm
+272,thought provoking
+273,dwayne johnson
+274,rachel mcadams
+275,alicia vikander
+276,video game adaptation
+277,josh brolin
+278,sarcasm
+279,emilia clarke
+280,star wars
+281,space action
+282,non-linear
+283,everything you want is here
+284,classic sci-fi
+285,engrossing adventure
+286,nerd
+287,stone age
+288,killer
+289,widows/widowers
+290,kid
+291,robot
+292,murder
+293,police
+294,kevin costner
+295,post apocalyptic
+296,irreverent
+297,jay and silent bob
+298,kevin smith
+299,satire
+300,based on a book
+301,brutal
+302,controversial
+303,goretastic
+304,violence
+305,alternate reality
+306,science fiction
+307,time travel
+308,disturbing
+309,great ending
+310,mindfuck
+311,surprise ending
+312,suspense
+313,cruel characters
+314,brutality
+315,threesome
+316,sexual humor
+317,embarassing scenes
+318,offensive
+319,r language
+320,80's
+321,crude humor
+322,vulgar
+323,sofia coppola
+324,john cusack
+325,ewan mcgregor
+326,renee zellweger
+327,jackie chan
+328,kung fu
+329,something for everyone in this one... saw it without and plan on seeing it with kids!
+330,assassin
+331,jean reno
+332,assassin-in-training (scene)
+333,espionage
+334,robert ludlum
+335,test tag
+336,feel-good
+337,fun family movie
+338,very funny
+339,black and white
+340,christopher nolan
+341,directorial debut
+342,not linear
+343,hugh jackman
+344,nonlinear
+345,psychology
+346,alan rickman
+347,harry potter
+348,humorous
+349,magic
+350,insomnia
+351,thought-provoking
+352,amazing artwork
+353,end of the world
+354,mecha
+355,gintama
+356,remaster
+357,space epic
+358,cult film
+359,dreamlike
+360,hallucinatory
+361,psychological
+362,sentimental
+363,memory
+364,cinematography
+365,india
+366,oldie but goodie
+367,big wave
+368,surfing
+369,ummarti2006
+370,high school
+371,notable nudity
+372,moldy
+373,old
+374,moving
+375,a clever chef rat
+376,hope
+377,mathematics
+378,zombie
+379,depressing
+380,stupid
+381,favelas
+382,narrated
+383,reciprocal spectator
+384,documentary
+385,henry darger
+386,the catholic church is the most corrupt organization in history
+387,childish naivity
+388,friendship
+389,bechdel test:fail
+390,cartoon
+391,child
+392,computer animation
+393,divorce
+394,dream
+395,narrative pisstake
+396,american idolatry
+397,coen brothers
+398,jeff bridges
+399,matt damon
+400,celebrity fetishism
+401,mediacentralism
+402,system holism
+403,city politics
+404,italy
+405,political right versus left
+406,creature feature
+407,music industry
+408,remix culture
+409,film history
+410,poetic
+411,representation of children
+412,disney animated feature
+413,oscar (best music - original score)
+414,awesome
+415,british comedy
+416,knight
+417,highschool
+418,cult
+419,boksdrama
+420,stiller
+421,wapendrama
+422,sister
+423,robots and androids
+424,post-college
+425,restaurant
+426,transvestite
+427,paul rudd
+428,quotable
+429,seen more than once
+430,amazing cinematography
+431,shakespeare
+432,updated classics
+433,bruce willis
+434,ghost
+435,android(s)/cyborg(s)
+436,artificial intelligence
+437,bittersweet
+438,steven spielberg
+439,bette davis
+440,oscar (best actress)
+441,lesbian subtext
+442,undercover cop
+443,christian bale
+444,casey affleck
+445,twist
+446,ending
+447,morgan freeman
+448,political commentary
+449,afghanistan
+450,american propaganda
+451,assassination
+452,military
+453,terrorism
+454,tricky
+455,addiction
+456,heroin
+457,mark wahlberg
+458,nudity (full frontal)
+459,cynical
+460,independent film
+461,space adventure
+462,psychedelic
+463,tarantino
+464,apocalypse
+465,arnold schwarzenegger
+466,nuclear war
+467,based on a true story
+468,kidnapping
+469,steve buscemi
+470,edward norton
+471,freedom of expression
+472,monty python
+473,emotional
+474,jack nicholson
+475,archaeology
+476,indiana jones
+477,alien
+478,horror
+479,space craft
+480,space travel
+481,alfred hitchcock
+482,suspenseful
+483,tense
+484,special effects
+485,masterpiece
+486,stanley kubrick
+487,juliette lewis
+488,robert de niro
+489,plot twist
+490,mental illness
+491,paranoid
+492,goofy
+493,creepy
+494,paranoia
+495,scary
+496,snl
+497,nicolas cage
+498,martial arts
+499,adult humor
+500,free speech
+501,parody
+502,south park
+503,trey parker
+504,obsession
+505,secret
+506,serial killer
+507,asylum
+508,brittany murphy
+509,mental hospital
+510,winona ryder
+511,claustrophobic
+512,stephen king
+513,scifi cult
+514,david bowie
+515,mindless one liners
+516,jake gyllenhaal
+517,high fantasy
+518,mythology
+519,wizard
+520,samurai
+521,rob zombie
+522,powerful ending
+523,schizophrenia
+524,lesbian
+525,modern war
+526,based on a play
+527,insanity
+528,ptsd
+529,claymation
+530,dark fairy tale
+531,psychological thriller
+532,stranded
+533,alter ego
+534,illusion
+535,overcomplicated
+536,stupid ending
+537,absorbing
+538,acting
+539,morality
+540,uplifting
+541,too long
+542,metaphorical
+543,annoying
+544,myth
+545,cambodia
+546,crime
+547,human rights
+548,procedural
+549,game
+550,pregnancy
+551,remake
+552,president
+553,jane austen
+554,hollywood
+555,alcoholism
+556,in netflix queue
+557,teacher
+558,animal movie
+559,pig
+560,death penalty
+561,nun
+562,twin
+563,emma
+564,south africa
+565,england
+566,journalism
+567,heist
+568,adoption
+569,prostitution
+570,writing
+571,jekyll and hyde
+572,theater
+573,golf
+574,muppets
+575,scotland
+576,dating
+577,moon
+578,nasa
+579,michael crichton
+580,submarine
+581,computer
+582,made me cry
+583,generation x
+584,school
+585,ireland
+586,movie business
+587,basketball
+588,france
+589,infertility
+590,australia
+591,beethoven
+592,einstein
+593,court
+594,darth vader
+595,luke skywalker
+596,space opera
+597,louisa may alcott
+598,girl power
+599,christmas
+600,prison
+601,disability
+602,hit men
+603,tv
+604,death
+605,marriage
+606,wrongful imprisonment
+607,enterprise
+608,coma
+609,cross dressing
+610,men in drag
+611,remade
+612,tom clancy
+613,john grisham
+614,interracial romance
+615,shrimp
+616,vietnam
+617,gambling
+618,bus
+619,spy
+620,edith wharton
+621,horse
+622,based on a tv show
+623,hula hoop
+624,biopic
+625,dinosaur
+626,japan
+627,sexuality
+628,aid
+629,radio
+630,show business
+631,butler
+632,housekeeper
+633,racism
+634,football
+635,chess
+636,c.s. lewis
+637,large cast
+638,race
+639,empire state building
+640,beat poetry
+641,halloween
+642,adolescence
+643,american indians
+644,native americans
+645,hannibal lector
+646,priest
+647,baby
+648,gulf war
+649,spoof
+650,bugs bunny
+651,veterinarian
+652,aardman
+653,alcatraz
+654,disaster
+655,atomic bomb
+656,drug abuse
+657,adultery
+658,capote
+659,falling
+660,voyeurism
+661,screwball
+662,brooch
+663,mount rushmore
+664,start of a beautiful friendship
+665,statue
+666,george bernard shaw
+667,rich guy - poor girl
+668,royalty
+669,1900s
+670,dorothy
+671,toto
+672,civil war
+673,television
+674,movie
+675,rosebud
+676,hal
+677,mrs. dewinter
+678,europe
+679,war
+680,amnesia
+681,cold war
+682,russia
+683,swashbuckler
+684,shangri-la
+685,astaire and rogers
+686,homeless
+687,oil
+688,nick and nora charles
+689,leopard
+690,fugitive
+691,missionary
+692,tennessee williams
+693,hemingway
+694,food
+695,king arthur
+696,nanny
+697,rogers and hammerstein
+698,anti-semitism
+699,governess
+700,fish
+701,bible
+702,religion
+703,1920s
+704,dance
+705,1960s
+706,jim morrison
+707,navy
+708,1950s
+709,aging
+710,clousseau
+711,boxing
+712,i am your father
+713,inigo montoya
+714,six-fingered man
+715,ark of the covenant
+716,spaghetti western
+717,middle east
+718,brainwashing
+719,harper lee
+720,ferris wheel
+721,venice
+722,zither
+723,norman bates
+724,saturday night live
+725,mozart
+726,salieri
+727,new york
+728,the entertainer
+729,may-december romance
+730,shakespeare sort of
+731,simon and garfunkel
+732,pow
+733,incest
+734,cold
+735,skiing
+736,nazi
+737,gunfight
+738,hammett
+739,heavy metal
+740,mockumentary
+741,holy grail
+742,e. m. forster
+743,baseball
+744,bird
+745,lawyer
+746,prom
+747,vampire
+748,demon
+749,personals ads
+750,borg
+751,ex-con
+752,arthur miller
+753,klingons
+754,captain kirk
+755,whale
+756,shark
+757,sport
+758,spying
+759,slasher
+760,hawkeye
+761,james fennimore cooper
+762,conan
+763,andrew lloyd weber
+764,jungle
+765,tolstoy
+766,reunion
+767,ballroom dance
+768,transplant
+769,1970s
+770,queen victoria
+771,henry james
+772,amish
+773,alternate universe
+774,savannah
+775,canada
+776,shipwreck
+777,charles dickens
+778,1980s
+779,no dvd at netflix
+780,conspiracy
+781,ship
+782,judaism
+783,huey long
+784,robert penn warren
+785,coulda been a contender
+786,gang
+787,dickens
+788,olympics
+789,china
+790,autism
+791,rasicm
+792,jason
+793,california
+794,mexico
+795,katzanzakis
+796,general motors
+797,michigan
+798,suburbia
+799,carnival
+800,ray bradbury
+801,mermaid
+802,weather forecaster
+803,s.e. hinton
+804,tolkein
+805,mouse
+806,aquarium
+807,boston
+808,capone
+809,small towns
+810,train
+811,in your eyes
+812,lloyd dobbler
+813,freak
+814,broadway
+815,south america
+816,moses
+817,e-mail
+818,doctor
+819,hungary
+820,stapler
+821,workplace
+822,evil children
+823,siam
+824,southern us
+825,golfing
+826,virtual reality
+827,motherhood
+828,prequel
+829,the force
+830,alternate endings
+831,star trek
+832,spider
+833,claims to be true
+834,video
+835,crucifixion
+836,slavery
+837,nostalgia
+838,i see dead people
+839,aviation
+840,beatles
+841,river
+842,academy award (best supporting actress)
+843,indonesia
+844,nightclub
+845,island
+846,brother
+847,lawn mower
+848,live action/animation
+849,tobacco
+850,dance marathon
+851,class
+852,camp
+853,up series
+854,ichabod crane
+855,depression
+856,dust bowl
+857,graham greene
+858,fatherhood
+859,black-and-white
+860,l.a.
+861,andy kaufman
+862,a dingo ate my baby
+863,plastic surgery
+864,e.m. forster
+865,figure skating
+866,big top
+867,circus
+868,blind
+869,orphan
+870,subway
+871,peace corp
+872,scandal
+873,college
+874,toga
+875,insurance
+876,pearl s buck
+877,hepburn and tracy
+878,interracial marriage
+879,prejudice
+880,factory
+881,pool
+882,evolution
+883,nick hornby
+884,peter pan
+885,psychiatrist
+886,rabbi
+887,suicide
+888,business
+889,pee wee herman
+890,mining
+891,missing children
+892,diabetes
+893,televangelist
+894,rolling stone
+895,blindness
+896,invisibility
+897,ballet
+898,dr. seuss
+899,stand-up comedy
+900,pageant
+901,bluegrass
+902,quaker
+903,psychopath
+904,reality tv
+905,eugene o'neill
+906,preacher
+907,virginity
+908,hannibal lecter
+909,von bulow
+910,backwards. memory
+911,singleton
+912,nabokov
+913,union
+914,fairy tales
+915,strangers on a train
+916,accident
+917,rape
+918,immigrant
+919,hippy
+920,prodigy
+921,nuclear disaster
+922,loretta lynn
+923,tradition!
+924,singer
+925,whimsical
+926,agatha christie
+927,duma
+928,book
+929,sisterhood
+930,woman
+931,oscar wilde
+932,younger men
+933,as byatt
+934,photography
+935,bomb
+936,lou gehrig
+937,violence in america
+938,pudding
+939,world war i
+940,art
+941,teenager
+942,salute to douglas sirk
+943,music business
+944,short films
+945,jazz
+946,plane
+947,doll
+948,chile
+949,stephen crane
+950,day and hudson
+951,stones of summer
+952,soccer
+953,big brothers
+954,titanic
+955,spelling bee
+956,jean grey
+957,magneto
+958,rogue
+959,wolverine
+960,retro
+961,they might be giants
+962,child abuse
+963,ninotchka remake
+964,tokyo
+965,dodie smith
+966,flood
+967,immigration
+968,othello
+969,cancer
+970,road trip
+971,multiple roles
+972,fbi
+973,terminal illness
+974,con men
+975,vertriloquism
+976,matchmaker
+977,biking
+978,lonesome polecat
+979,watergate
+980,domestic violence
+981,werewolf
+982,thanksgiving
+983,rita hayworth can dance!
+984,rap
+985,saint
+986,good and evil
+987,scott turow
+988,cattle drive
+989,marx brothers
+990,opera
+991,real estate
+992,charlotte bronte
+993,trucker
+994,mountain climbing
+995,grace
+996,multiple personalities
+997,deaf
+998,space station
+999,macbeth
+1000,amtrak
+1001,independent
+1002,sundance award winner
+1003,van gogh
+1004,not available from netflix
+1005,anne boleyn
+1006,clock
+1007,prince
+1008,convent
+1009,ogre
+1010,deafness
+1011,mcdonalds
+1012,doc ock
+1013,cole porter
+1014,stand up
+1015,oscar (best supporting actress)
+1016,parenthood
+1017,stage
+1018,wine
+1019,abortion
+1020,hearst
+1021,gold
+1022,mirror
+1023,donkey
+1024,camel
+1025,genocide
+1026,roald dahl
+1027,howard hughes
+1028,busniess
+1029,06 oscar nominated best movie - animation
+1030,parrot
+1031,money
+1032,hip hop
+1033,firefly
+1034,bear
+1035,truman capote
+1036,mccarthy hearings
+1037,morrow
+1038,johnny cash
+1039,villain nonexistent or not needed for good story
+1040,stop looking at me swan
+1041,android
+1042,philip k. dick
+1043,scifi masterpiece
+1044,drama
+1045,michael bay
+1046,give me back my son!
+1047,it was melodramatic and kind of dumb
+1048,james stewart
+1049,photographer
+1050,eerie
+1051,neo-noir
+1052,george lucas
+1053,harrison ford
+1054,original plot
+1055,anti-war
+1056,cameo:whoopi goldberg
+1057,best comedy
+1058,chris klein
+1059,dumb
+1060,jason biggs
+1061,not funny
+1062,pizza beer
+1063,seann william scott
+1064,teen
+1065,gun
+1066,jesse ventura
+1067,macho
+1068,comic
+1069,father-son relationship
+1070,unique
+1071,creativity
+1072,free to download
+1073,imagination
+1074,no dialogue
+1075,well done
+1076,crappy sequel
+1077,first was much better
+1078,love
+1079,m. night shyamalan
+1080,big budget
+1081,halle berry
+1082,bad
+1083,disappointing
+1084,faerie tale
+1085,fairy tale
+1086,far fetched
+1087,paul giamatti
+1088,costume drama
+1089,michael cera
+1090,self discovery
+1091,shenanigan
+1092,alone in the world
+1093,last man on earth
+1094,notable soundtrack
+1095,teenage pregnancy
+1096,colin farrell
+1097,ralph fiennes
+1098,movies about movies
+1099,coen bros
+1100,george clooney
+1101,john malkovich
+1102,twists & turns
+1103,weird
+1104,2d animation
+1105,joss whedon
+1106,nathan fillion
+1107,neil patrick harris
+1108,andy samberg
+1109,bromantic
+1110,jaime pressly
+1111,jason segel
+1112,masculinity
+1113,2001-like
+1114,solitude
+1115,too many characters
+1116,lack of development
+1117,lack of story
+1118,quick cuts
+1119,simon pegg
+1120,fighting the system
+1121,franchise
+1122,new composer
+1123,recap
+1124,needed more autobots
+1125,ridiculous
+1126,shia labeouf
+1127,stop using useless characters for filler
+1128,artistic
+1129,inspiring
+1130,intelligent
+1131,zooey deschanel
+1132,intelligent sci-fi
+1133,bad humor
+1134,bad science
+1135,futuristic
+1136,graphic design
+1137,james cameron
+1138,poor dialogue
+1139,superficial plot
+1140,unoriginal
+1141,white guilt
+1142,geeky
+1143,video games
+1144,male nudity
+1145,action choreography
+1146,horrid characterisation
+1147,poor plot development
+1148,passion
+1149,purity of essence
+1150,slim pickens
+1151,deep throat
+1152,dan aykroyd
+1153,enjoyable
+1154,bubba gump shrimp
+1155,lieutenant dan
+1156,stupid is as stupid does
+1157,biography
+1158,philosophy
+1159,cheating
+1160,lie
+1161,smart
+1162,memory loss
+1163,sad
+1164,denzel washington
+1165,robbery
+1166,small time criminals
+1167,casino
+1168,hotel
+1169,las vegas
+1170,complicated
+1171,dead wife
+1172,intellectual
+1173,too much love interest
+1174,economics
+1175,investor corruption
+1176,truth
+1177,captain america
+1178,silly
+1179,superhero team
+1180,bank
+1181,big corporations
+1182,financial crisis
+1183,kevin spacey
+1184,realistic
+1185,wall street
+1186,interesting scenario
+1187,cia
+1188,thrilling
+1189,cliche characters
+1190,long shots
+1191,simple
+1192,slow action
+1193,hostage
+1194,ocean
+1195,stock market
+1196,fun
+1197,off-beat comedy
+1198,heartwarming
+1199,touching
+1200,existentialism
+1201,philosophical
+1202,confrontational
+1203,earnest
+1204,great screenplay
+1205,gritty
+1206,motivational
+1207,cerebral
+1208,reflective
+1209,chilly
+1210,menacing
+1211,oninous
+1212,avant-garde romantic comedy
+1213,elegiac
+1214,melancholy
+1215,wry
+1216,artsy
+1217,enigmatic
+1218,beautiful
+1219,poignant
+1220,tear jerker
+1221,tearjerking
+1222,gentle
+1223,lyrical
+1224,downbeat
+1225,crazy
+1226,great cinematography
+1227,easygoing
+1228,art house
+1229,cryptic
+1230,fucked up
+1231,gruesome
+1232,insane
+1233,strange
+1234,somber
+1235,dreamy
+1236,elegant
+1237,heartbreaking
+1238,intimate
+1239,loneliness
+1240,long takes
+1241,longing
+1242,melancholic
+1243,moody
+1244,nocturnal
+1245,romantic
+1246,"""artsy"""
+1247,anger
+1248,awkward
+1249,symbolism
+1250,unconventional
+1251,wistful
+1252,grim
+1253,tragedy
+1254,tragic
+1255,meditative
+1256,purposefulness
+1257,bleak
+1258,harsh
+1259,haunting
+1260,inhumane
+1261,arthouse
+1262,colourful
+1263,happpiness
+1264,humane
+1265,insightful
+1266,lovely
+1267,mind-bending
+1268,quirky romantic
+1269,surrealism
+1270,symbolic
+1271,bizarre
+1272,twisted
+1273,trippy
+1274,character study
+1275,intense
+1276,abstract
+1277,great humor
+1278,beautiful cinematography
+1279,beautifully filmed
+1280,philosopical
+1281,fatalistic
+1282,cheeky
+1283,colorful
+1284,imaginative
+1285,bad dialogue
+1286,philosophical issues
+1287,adorable
+1288,eccentric
+1289,introspection
+1290,great visuals
+1291,unlikely hero
+1292,bizzare
+1293,slick
+1294,understated
+1295,visually striking
+1296,tension
+1297,contemplative
+1298,existential
+1299,nightmare
+1300,beautiful visuals
+1301,good cinematography
+1302,predictible plot
+1303,brilliant
+1304,allegorical
+1305,uncomfortable
+1306,unsettling
+1307,bad music
+1308,sinbad
+1309,seen at the cinema
+1310,not seen
+1311,good
+1312,really bad
+1313,great movie
+1314,wesley snipes
+1315,best picture
+1316,horrible acting
+1317,awkward romance
+1318,french
+1319,gary oldman
+1320,great acting
+1321,lolita theme
+1322,luc besson
+1323,natalie portman
+1324,police corruption
+1325,1990s
+1326,achronological
+1327,action packed
+1328,aggressive
+1329,amazing
+1330,amazing dialogues
+1331,anthology
+1332,bad ass
+1333,bad language
+1334,bad-ass
+1335,biblical references
+1336,big boys with guns
+1337,big name actors
+1338,black humor
+1339,black humour
+1340,blood
+1341,blood splatters
+1342,casual violence
+1343,character development
+1344,classic movie
+1345,coke
+1346,conversation
+1347,cool
+1348,cool style
+1349,crime scene scrubbing
+1350,cult classic
+1351,dancing
+1352,different
+1353,diner
+1354,disjointed timeline
+1355,drug overdose
+1356,drugs & music
+1357,entertaining
+1358,entirely dialogue
+1359,episodic
+1360,exciting
+1361,fast paced
+1362,fast-paced
+1363,film noir
+1364,film-noir
+1365,foul language
+1366,genius
+1367,golden watch
+1368,good music
+1369,gore
+1370,great dialogue
+1371,harvey keitel
+1372,homosexuality
+1373,iconic
+1374,innovative
+1375,intertwining storylines
+1376,interwoven storylines
+1377,irony
+1378,john travolta
+1379,killer-as-protagonist
+1380,los angeles
+1381,meaningless violence
+1382,milkshake
+1383,mobster
+1384,monologue
+1385,motherfucker
+1386,multiple stories
+1387,noir
+1388,non-linear timeline
+1389,nonlinear narrative
+1390,nonlinear storyline
+1391,nonlinear timeline
+1392,organised crime
+1393,out of order
+1394,palme d'or
+1395,pop culture references
+1396,pulp
+1397,r:disturbing violent content including rape
+1398,r:disturbing violent images
+1399,r:graphic sexuality
+1400,r:some violence
+1401,r:strong bloody violence
+1402,r:strong language
+1403,r:sustained strong stylized violence
+1404,r:violence
+1405,random
+1406,roger avary
+1407,royal with cheese
+1408,sexy
+1409,smart writing
+1410,sophisticated
+1411,splatter
+1412,storytelling
+1413,travolta
+1414,uma thurman
+1415,unpredictable
+1416,unusual
+1417,ape
+1418,arthur c. clarke
+1419,confusing ending
+1420,dull
+1421,oscar (best effects - visual effects)
+1422,relaxing
+1423,revolutionary
+1424,setting:space/space ship
+1425,slow
+1426,slow paced
+1427,spacecraft
+1428,superb soundtrack
+1429,technology
+1430,tedious
+1431,visual
+1432,bowling
+1433,deadpan
+1434,john goodman
+1435,julianne moore
+1436,marijuana
+1437,philip seymour hoffman
+1438,ransom
+1439,rug
+1440,satirical
+1441,challenging
+1442,chuck palahniuk
+1443,consumerism
+1444,david fincher
+1445,double life
+1446,fighting
+1447,imaginary friend
+1448,mind-blowing
+1449,nudity (topless)
+1450,palahnuik
+1451,postmodern
+1452,societal criticism
+1453,british
+1454,roman
+1455,70mm
+1456,for katie
+1457,austere
+1458,gun fu
+1459,heroic bloodshed
